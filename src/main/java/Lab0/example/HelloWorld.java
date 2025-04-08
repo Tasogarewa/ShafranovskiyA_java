@@ -1,4 +1,4 @@
-package com.example;
+package Lab0.example;
 
 public class HelloWorld {
     public static void main(String[] args) {
