@@ -1,11 +1,10 @@
-package lab3.model;
+package lab4.model;
 
-
-public class Department {
+public class Group {
     private String name;
     private Human head;
 
-    public Department(String name, Human head) {
+    public Group(String name, Human head) {
         this.name = name;
         this.head = head;
     }
@@ -17,5 +16,4 @@ public class Department {
     public Human getHead() {
         return head;
     }
-
 }

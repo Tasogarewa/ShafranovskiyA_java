@@ -24,4 +24,5 @@ public class University {
     public List<Faculty> getFaculties() {
         return faculties;
     }
+
 }
